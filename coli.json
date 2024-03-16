@@ -1,0 +1,522 @@
+[
+  {
+    "state": "Alabama",
+    "CostOfLivingIndex2023": 88.8,
+    "CostOfLivingIndexGroceryCostsIndex": 96.4,
+    "CostOfLivingIndexHealthCostsIndex": 86.9,
+    "CostOfLivingIndexHousingCostsIndex": 70.4,
+    "CostOfLivingIndexMiscCostsIndex": 96.2,
+    "CostOfLivingIndexTransportationCostsIndex": 92,
+    "CostOfLivingIndexUtilityCostsIndex": 103.6
+  },
+  {
+    "state": "Alaska",
+    "CostOfLivingIndex2023": 124.4,
+    "CostOfLivingIndexGroceryCostsIndex": 127.4,
+    "CostOfLivingIndexHealthCostsIndex": 149.8,
+    "CostOfLivingIndexHousingCostsIndex": 118.1,
+    "CostOfLivingIndexMiscCostsIndex": 118.8,
+    "CostOfLivingIndexTransportationCostsIndex": 121.9,
+    "CostOfLivingIndexUtilityCostsIndex": 148.1
+  },
+  {
+    "state": "Arizona",
+    "CostOfLivingIndex2023": 107.2,
+    "CostOfLivingIndexGroceryCostsIndex": 101.8,
+    "CostOfLivingIndexHealthCostsIndex": 93.5,
+    "CostOfLivingIndexHousingCostsIndex": 125.3,
+    "CostOfLivingIndexMiscCostsIndex": 102.1,
+    "CostOfLivingIndexTransportationCostsIndex": 99.2,
+    "CostOfLivingIndexUtilityCostsIndex": 94.3
+  },
+  {
+    "state": "Arkansas",
+    "CostOfLivingIndex2023": 90.3,
+    "CostOfLivingIndexGroceryCostsIndex": 95.4,
+    "CostOfLivingIndexHealthCostsIndex": 87.2,
+    "CostOfLivingIndexHousingCostsIndex": 76.3,
+    "CostOfLivingIndexMiscCostsIndex": 99.1,
+    "CostOfLivingIndexTransportationCostsIndex": 92.2,
+    "CostOfLivingIndexUtilityCostsIndex": 91.8
+  },
+  {
+    "state": "California",
+    "CostOfLivingIndex2023": 134.5,
+    "CostOfLivingIndexGroceryCostsIndex": 112.3,
+    "CostOfLivingIndexHealthCostsIndex": 106.4,
+    "CostOfLivingIndexHousingCostsIndex": 186.5,
+    "CostOfLivingIndexMiscCostsIndex": 110.9,
+    "CostOfLivingIndexTransportationCostsIndex": 124.1,
+    "CostOfLivingIndexUtilityCostsIndex": 124.8
+  },
+  {
+    "state": "Colorado",
+    "CostOfLivingIndex2023": 105.5,
+    "CostOfLivingIndexGroceryCostsIndex": 100.6,
+    "CostOfLivingIndexHealthCostsIndex": 102,
+    "CostOfLivingIndexHousingCostsIndex": 116.1,
+    "CostOfLivingIndexMiscCostsIndex": 103,
+    "CostOfLivingIndexTransportationCostsIndex": 107.4,
+    "CostOfLivingIndexUtilityCostsIndex": 90.9
+  },
+  {
+    "state": "Connecticut",
+    "CostOfLivingIndex2023": 113.1,
+    "CostOfLivingIndexGroceryCostsIndex": 99.8,
+    "CostOfLivingIndexHealthCostsIndex": 109.7,
+    "CostOfLivingIndexHousingCostsIndex": 122.7,
+    "CostOfLivingIndexMiscCostsIndex": 111.9,
+    "CostOfLivingIndexTransportationCostsIndex": 102.6,
+    "CostOfLivingIndexUtilityCostsIndex": 122.3
+  },
+  {
+    "state": "Delaware",
+    "CostOfLivingIndex2023": 102.6,
+    "CostOfLivingIndexGroceryCostsIndex": 103,
+    "CostOfLivingIndexHealthCostsIndex": 104.3,
+    "CostOfLivingIndexHousingCostsIndex": 99.7,
+    "CostOfLivingIndexMiscCostsIndex": 103.9,
+    "CostOfLivingIndexTransportationCostsIndex": 109.5,
+    "CostOfLivingIndexUtilityCostsIndex": 97.8
+  },
+  {
+    "state": "District of Columbia",
+    "CostOfLivingIndex2023": 148.7,
+    "CostOfLivingIndexGroceryCostsIndex": 106.9,
+    "CostOfLivingIndexHealthCostsIndex": 104.7,
+    "CostOfLivingIndexHousingCostsIndex": 241.8,
+    "CostOfLivingIndexMiscCostsIndex": 117.7,
+    "CostOfLivingIndexTransportationCostsIndex": 107.9,
+    "CostOfLivingIndexUtilityCostsIndex": 110.2
+  },
+  {
+    "state": "Florida",
+    "CostOfLivingIndex2023": 102.3,
+    "CostOfLivingIndexGroceryCostsIndex": 100.1,
+    "CostOfLivingIndexHealthCostsIndex": 96.3,
+    "CostOfLivingIndexHousingCostsIndex": 110.5,
+    "CostOfLivingIndexMiscCostsIndex": 99.4,
+    "CostOfLivingIndexTransportationCostsIndex": 99.8,
+    "CostOfLivingIndexUtilityCostsIndex": 96.7
+  },
+  {
+    "state": "Georgia",
+    "CostOfLivingIndex2023": 91,
+    "CostOfLivingIndexGroceryCostsIndex": 98.9,
+    "CostOfLivingIndexHealthCostsIndex": 101.4,
+    "CostOfLivingIndexHousingCostsIndex": 78.5,
+    "CostOfLivingIndexMiscCostsIndex": 97.2,
+    "CostOfLivingIndexTransportationCostsIndex": 94.5,
+    "CostOfLivingIndexUtilityCostsIndex": 84.4
+  },
+  {
+    "state": "Hawaii",
+    "CostOfLivingIndex2023": 179,
+    "CostOfLivingIndexGroceryCostsIndex": 125.6,
+    "CostOfLivingIndexHealthCostsIndex": 118.4,
+    "CostOfLivingIndexHousingCostsIndex": 309.7,
+    "CostOfLivingIndexMiscCostsIndex": 123.8,
+    "CostOfLivingIndexTransportationCostsIndex": 140.3,
+    "CostOfLivingIndexUtilityCostsIndex": 141.1
+  },
+  {
+    "state": "Idaho",
+    "CostOfLivingIndex2023": 106.1,
+    "CostOfLivingIndexGroceryCostsIndex": 103.7,
+    "CostOfLivingIndexHealthCostsIndex": 101.2,
+    "CostOfLivingIndexHousingCostsIndex": 113.8,
+    "CostOfLivingIndexMiscCostsIndex": 106.3,
+    "CostOfLivingIndexTransportationCostsIndex": 109.7,
+    "CostOfLivingIndexUtilityCostsIndex": 84.6
+  },
+  {
+    "state": "Illinois",
+    "CostOfLivingIndex2023": 90.8,
+    "CostOfLivingIndexGroceryCostsIndex": 97.5,
+    "CostOfLivingIndexHealthCostsIndex": 95.4,
+    "CostOfLivingIndexHousingCostsIndex": 78.3,
+    "CostOfLivingIndexMiscCostsIndex": 94.3,
+    "CostOfLivingIndexTransportationCostsIndex": 102.4,
+    "CostOfLivingIndexUtilityCostsIndex": 90.9
+  },
+  {
+    "state": "Indiana",
+    "CostOfLivingIndex2023": 91.5,
+    "CostOfLivingIndexGroceryCostsIndex": 98,
+    "CostOfLivingIndexHealthCostsIndex": 98.9,
+    "CostOfLivingIndexHousingCostsIndex": 77,
+    "CostOfLivingIndexMiscCostsIndex": 94.7,
+    "CostOfLivingIndexTransportationCostsIndex": 95.7,
+    "CostOfLivingIndexUtilityCostsIndex": 105.4
+  },
+  {
+    "state": "Iowa",
+    "CostOfLivingIndex2023": 89.7,
+    "CostOfLivingIndexGroceryCostsIndex": 96.8,
+    "CostOfLivingIndexHealthCostsIndex": 99.7,
+    "CostOfLivingIndexHousingCostsIndex": 72.4,
+    "CostOfLivingIndexMiscCostsIndex": 95.4,
+    "CostOfLivingIndexTransportationCostsIndex": 100.6,
+    "CostOfLivingIndexUtilityCostsIndex": 94.5
+  },
+  {
+    "state": "Kansas",
+    "CostOfLivingIndex2023": 87.7,
+    "CostOfLivingIndexGroceryCostsIndex": 96.8,
+    "CostOfLivingIndexHealthCostsIndex": 97.1,
+    "CostOfLivingIndexHousingCostsIndex": 69.4,
+    "CostOfLivingIndexMiscCostsIndex": 91.9,
+    "CostOfLivingIndexTransportationCostsIndex": 88.3,
+    "CostOfLivingIndexUtilityCostsIndex": 107.5
+  },
+  {
+    "state": "Kentucky",
+    "CostOfLivingIndex2023": 93.8,
+    "CostOfLivingIndexGroceryCostsIndex": 101.2,
+    "CostOfLivingIndexHealthCostsIndex": 81.8,
+    "CostOfLivingIndexHousingCostsIndex": 72.5,
+    "CostOfLivingIndexMiscCostsIndex": 106.3,
+    "CostOfLivingIndexTransportationCostsIndex": 97.7,
+    "CostOfLivingIndexUtilityCostsIndex": 102.9
+  },
+  {
+    "state": "Louisiana",
+    "CostOfLivingIndex2023": 92,
+    "CostOfLivingIndexGroceryCostsIndex": 95.1,
+    "CostOfLivingIndexHealthCostsIndex": 97.9,
+    "CostOfLivingIndexHousingCostsIndex": 84.7,
+    "CostOfLivingIndexMiscCostsIndex": 96.3,
+    "CostOfLivingIndexTransportationCostsIndex": 97.2,
+    "CostOfLivingIndexUtilityCostsIndex": 85.3
+  },
+  {
+    "state": "Maine",
+    "CostOfLivingIndex2023": 111.5,
+    "CostOfLivingIndexGroceryCostsIndex": 101.2,
+    "CostOfLivingIndexHealthCostsIndex": 96.2,
+    "CostOfLivingIndexHousingCostsIndex": 118.9,
+    "CostOfLivingIndexMiscCostsIndex": 112.8,
+    "CostOfLivingIndexTransportationCostsIndex": 112.8,
+    "CostOfLivingIndexUtilityCostsIndex": 108
+  },
+  {
+    "state": "Maryland",
+    "CostOfLivingIndex2023": 119.5,
+    "CostOfLivingIndexGroceryCostsIndex": 108.5,
+    "CostOfLivingIndexHealthCostsIndex": 96.2,
+    "CostOfLivingIndexHousingCostsIndex": 152.2,
+    "CostOfLivingIndexMiscCostsIndex": 108.5,
+    "CostOfLivingIndexTransportationCostsIndex": 100.2,
+    "CostOfLivingIndexUtilityCostsIndex": 109.2
+  },
+  {
+    "state": "Massachusetts",
+    "CostOfLivingIndex2023": 148.4,
+    "CostOfLivingIndexGroceryCostsIndex": 105,
+    "CostOfLivingIndexHealthCostsIndex": 112.6,
+    "CostOfLivingIndexHousingCostsIndex": 219.5,
+    "CostOfLivingIndexMiscCostsIndex": 125.8,
+    "CostOfLivingIndexTransportationCostsIndex": 127.5,
+    "CostOfLivingIndexUtilityCostsIndex": 126.1
+  },
+  {
+    "state": "Michigan",
+    "CostOfLivingIndex2023": 92.7,
+    "CostOfLivingIndexGroceryCostsIndex": 97.4,
+    "CostOfLivingIndexHealthCostsIndex": 94,
+    "CostOfLivingIndexHousingCostsIndex": 80.9,
+    "CostOfLivingIndexMiscCostsIndex": 96.8,
+    "CostOfLivingIndexTransportationCostsIndex": 98.6,
+    "CostOfLivingIndexUtilityCostsIndex": 99.6
+  },
+  {
+    "state": "Minnesota",
+    "CostOfLivingIndex2023": 94.1,
+    "CostOfLivingIndexGroceryCostsIndex": 97.2,
+    "CostOfLivingIndexHealthCostsIndex": 111.5,
+    "CostOfLivingIndexHousingCostsIndex": 82.3,
+    "CostOfLivingIndexMiscCostsIndex": 99.6,
+    "CostOfLivingIndexTransportationCostsIndex": 99,
+    "CostOfLivingIndexUtilityCostsIndex": 91.5
+  },
+  {
+    "state": "Mississippi",
+    "CostOfLivingIndex2023": 85.3,
+    "CostOfLivingIndexGroceryCostsIndex": 97.1,
+    "CostOfLivingIndexHealthCostsIndex": 97.6,
+    "CostOfLivingIndexHousingCostsIndex": 68.6,
+    "CostOfLivingIndexMiscCostsIndex": 91,
+    "CostOfLivingIndexTransportationCostsIndex": 88.6,
+    "CostOfLivingIndexUtilityCostsIndex": 86.1
+  },
+  {
+    "state": "Missouri",
+    "CostOfLivingIndex2023": 88.4,
+    "CostOfLivingIndexGroceryCostsIndex": 94.8,
+    "CostOfLivingIndexHealthCostsIndex": 89.9,
+    "CostOfLivingIndexHousingCostsIndex": 77.2,
+    "CostOfLivingIndexMiscCostsIndex": 91.6,
+    "CostOfLivingIndexTransportationCostsIndex": 90.3,
+    "CostOfLivingIndexUtilityCostsIndex": 97.7
+  },
+  {
+    "state": "Montana",
+    "CostOfLivingIndex2023": 103.7,
+    "CostOfLivingIndexGroceryCostsIndex": 103,
+    "CostOfLivingIndexHealthCostsIndex": 95.7,
+    "CostOfLivingIndexHousingCostsIndex": 111.4,
+    "CostOfLivingIndexMiscCostsIndex": 103.3,
+    "CostOfLivingIndexTransportationCostsIndex": 99.4,
+    "CostOfLivingIndexUtilityCostsIndex": 91.6
+  },
+  {
+    "state": "Nebraska",
+    "CostOfLivingIndex2023": 90.1,
+    "CostOfLivingIndexGroceryCostsIndex": 95.2,
+    "CostOfLivingIndexHealthCostsIndex": 97.1,
+    "CostOfLivingIndexHousingCostsIndex": 78.4,
+    "CostOfLivingIndexMiscCostsIndex": 94.8,
+    "CostOfLivingIndexTransportationCostsIndex": 101.8,
+    "CostOfLivingIndexUtilityCostsIndex": 85.7
+  },
+  {
+    "state": "Nevada",
+    "CostOfLivingIndex2023": 101.3,
+    "CostOfLivingIndexGroceryCostsIndex": 102.1,
+    "CostOfLivingIndexHealthCostsIndex": 94.9,
+    "CostOfLivingIndexHousingCostsIndex": 110.7,
+    "CostOfLivingIndexMiscCostsIndex": 91.3,
+    "CostOfLivingIndexTransportationCostsIndex": 117.2,
+    "CostOfLivingIndexUtilityCostsIndex": 96.6
+  },
+  {
+    "state": "New Hampshire",
+    "CostOfLivingIndex2023": 115,
+    "CostOfLivingIndexGroceryCostsIndex": 102.3,
+    "CostOfLivingIndexHealthCostsIndex": 120.6,
+    "CostOfLivingIndexHousingCostsIndex": 109.8,
+    "CostOfLivingIndexMiscCostsIndex": 120.8,
+    "CostOfLivingIndexTransportationCostsIndex": 113.6,
+    "CostOfLivingIndexUtilityCostsIndex": 130.2
+  },
+  {
+    "state": "New Jersey",
+    "CostOfLivingIndex2023": 114.1,
+    "CostOfLivingIndexGroceryCostsIndex": 103.9,
+    "CostOfLivingIndexHealthCostsIndex": 96.1,
+    "CostOfLivingIndexHousingCostsIndex": 136.8,
+    "CostOfLivingIndexMiscCostsIndex": 106.6,
+    "CostOfLivingIndexTransportationCostsIndex": 106.1,
+    "CostOfLivingIndexUtilityCostsIndex": 107.2
+  },
+  {
+    "state": "New Mexico",
+    "CostOfLivingIndex2023": 94.2,
+    "CostOfLivingIndexGroceryCostsIndex": 96.7,
+    "CostOfLivingIndexHealthCostsIndex": 99.6,
+    "CostOfLivingIndexHousingCostsIndex": 87.5,
+    "CostOfLivingIndexMiscCostsIndex": 98.3,
+    "CostOfLivingIndexTransportationCostsIndex": 93.5,
+    "CostOfLivingIndexUtilityCostsIndex": 93.2
+  },
+  {
+    "state": "New York",
+    "CostOfLivingIndex2023": 125.1,
+    "CostOfLivingIndexGroceryCostsIndex": 103,
+    "CostOfLivingIndexHealthCostsIndex": 104.5,
+    "CostOfLivingIndexHousingCostsIndex": 173.3,
+    "CostOfLivingIndexMiscCostsIndex": 109,
+    "CostOfLivingIndexTransportationCostsIndex": 106.7,
+    "CostOfLivingIndexUtilityCostsIndex": 102.5
+  },
+  {
+    "state": "North Carolina",
+    "CostOfLivingIndex2023": 96.1,
+    "CostOfLivingIndexGroceryCostsIndex": 99,
+    "CostOfLivingIndexHealthCostsIndex": 109.5,
+    "CostOfLivingIndexHousingCostsIndex": 92.1,
+    "CostOfLivingIndexMiscCostsIndex": 97.3,
+    "CostOfLivingIndexTransportationCostsIndex": 93.5,
+    "CostOfLivingIndexUtilityCostsIndex": 94.5
+  },
+  {
+    "state": "North Dakota",
+    "CostOfLivingIndex2023": 94.6,
+    "CostOfLivingIndexGroceryCostsIndex": 94.6,
+    "CostOfLivingIndexHealthCostsIndex": 111.6,
+    "CostOfLivingIndexHousingCostsIndex": 84.3,
+    "CostOfLivingIndexMiscCostsIndex": 96.9,
+    "CostOfLivingIndexTransportationCostsIndex": 101.4,
+    "CostOfLivingIndexUtilityCostsIndex": 101.8
+  },
+  {
+    "state": "Ohio",
+    "CostOfLivingIndex2023": 94,
+    "CostOfLivingIndexGroceryCostsIndex": 100.9,
+    "CostOfLivingIndexHealthCostsIndex": 96.5,
+    "CostOfLivingIndexHousingCostsIndex": 80.1,
+    "CostOfLivingIndexMiscCostsIndex": 100.1,
+    "CostOfLivingIndexTransportationCostsIndex": 97.7,
+    "CostOfLivingIndexUtilityCostsIndex": 97.2
+  },
+  {
+    "state": "Oklahoma",
+    "CostOfLivingIndex2023": 86,
+    "CostOfLivingIndexGroceryCostsIndex": 93.8,
+    "CostOfLivingIndexHealthCostsIndex": 91.8,
+    "CostOfLivingIndexHousingCostsIndex": 68,
+    "CostOfLivingIndexMiscCostsIndex": 91.5,
+    "CostOfLivingIndexTransportationCostsIndex": 92.3,
+    "CostOfLivingIndexUtilityCostsIndex": 98.2
+  },
+  {
+    "state": "Oregon",
+    "CostOfLivingIndex2023": 115.1,
+    "CostOfLivingIndexGroceryCostsIndex": 107.6,
+    "CostOfLivingIndexHealthCostsIndex": 101.4,
+    "CostOfLivingIndexHousingCostsIndex": 139.9,
+    "CostOfLivingIndexMiscCostsIndex": 105.8,
+    "CostOfLivingIndexTransportationCostsIndex": 113.6,
+    "CostOfLivingIndexUtilityCostsIndex": 94
+  },
+  {
+    "state": "Pennsylvania",
+    "CostOfLivingIndex2023": 99,
+    "CostOfLivingIndexGroceryCostsIndex": 100.9,
+    "CostOfLivingIndexHealthCostsIndex": 96.7,
+    "CostOfLivingIndexHousingCostsIndex": 89.9,
+    "CostOfLivingIndexMiscCostsIndex": 102,
+    "CostOfLivingIndexTransportationCostsIndex": 108.2,
+    "CostOfLivingIndexUtilityCostsIndex": 105.9
+  },
+  {
+    "state": "Rhode Island",
+    "CostOfLivingIndex2023": 110.5,
+    "CostOfLivingIndexGroceryCostsIndex": 100.5,
+    "CostOfLivingIndexHealthCostsIndex": 107.4,
+    "CostOfLivingIndexHousingCostsIndex": 114.6,
+    "CostOfLivingIndexMiscCostsIndex": 115.2,
+    "CostOfLivingIndexTransportationCostsIndex": 98.9,
+    "CostOfLivingIndexUtilityCostsIndex": 109.7
+  },
+  {
+    "state": "South Carolina",
+    "CostOfLivingIndex2023": 96.5,
+    "CostOfLivingIndexGroceryCostsIndex": 100.1,
+    "CostOfLivingIndexHealthCostsIndex": 96.7,
+    "CostOfLivingIndexHousingCostsIndex": 89.4,
+    "CostOfLivingIndexMiscCostsIndex": 99.5,
+    "CostOfLivingIndexTransportationCostsIndex": 91.6,
+    "CostOfLivingIndexUtilityCostsIndex": 105.3
+  },
+  {
+    "state": "South Dakota",
+    "CostOfLivingIndex2023": 93.8,
+    "CostOfLivingIndexGroceryCostsIndex": 98,
+    "CostOfLivingIndexHealthCostsIndex": 97,
+    "CostOfLivingIndexHousingCostsIndex": 93.9,
+    "CostOfLivingIndexMiscCostsIndex": 93.2,
+    "CostOfLivingIndexTransportationCostsIndex": 93,
+    "CostOfLivingIndexUtilityCostsIndex": 87.9
+  },
+  {
+    "state": "Tennessee",
+    "CostOfLivingIndex2023": 90.4,
+    "CostOfLivingIndexGroceryCostsIndex": 97.8,
+    "CostOfLivingIndexHealthCostsIndex": 88.1,
+    "CostOfLivingIndexHousingCostsIndex": 82.9,
+    "CostOfLivingIndexMiscCostsIndex": 92.8,
+    "CostOfLivingIndexTransportationCostsIndex": 90,
+    "CostOfLivingIndexUtilityCostsIndex": 93.2
+  },
+  {
+    "state": "Texas",
+    "CostOfLivingIndex2023": 93,
+    "CostOfLivingIndexGroceryCostsIndex": 94.8,
+    "CostOfLivingIndexHealthCostsIndex": 94.1,
+    "CostOfLivingIndexHousingCostsIndex": 84.2,
+    "CostOfLivingIndexMiscCostsIndex": 95.9,
+    "CostOfLivingIndexTransportationCostsIndex": 92.6,
+    "CostOfLivingIndexUtilityCostsIndex": 105.7
+  },
+  {
+    "state": "Utah",
+    "CostOfLivingIndex2023": 101.5,
+    "CostOfLivingIndexGroceryCostsIndex": 98.3,
+    "CostOfLivingIndexHealthCostsIndex": 90.3,
+    "CostOfLivingIndexHousingCostsIndex": 106.5,
+    "CostOfLivingIndexMiscCostsIndex": 102.9,
+    "CostOfLivingIndexTransportationCostsIndex": 100.9,
+    "CostOfLivingIndexUtilityCostsIndex": 93.5
+  },
+  {
+    "state": "Vermont",
+    "CostOfLivingIndex2023": 114.9,
+    "CostOfLivingIndexGroceryCostsIndex": 103.1,
+    "CostOfLivingIndexHealthCostsIndex": 106.2,
+    "CostOfLivingIndexHousingCostsIndex": 131.4,
+    "CostOfLivingIndexMiscCostsIndex": 106.1,
+    "CostOfLivingIndexTransportationCostsIndex": 115.6,
+    "CostOfLivingIndexUtilityCostsIndex": 120.8
+  },
+  {
+    "state": "Virginia",
+    "CostOfLivingIndex2023": 103.1,
+    "CostOfLivingIndexGroceryCostsIndex": 100.6,
+    "CostOfLivingIndexHealthCostsIndex": 102.6,
+    "CostOfLivingIndexHousingCostsIndex": 107.7,
+    "CostOfLivingIndexMiscCostsIndex": 102.2,
+    "CostOfLivingIndexTransportationCostsIndex": 96.5,
+    "CostOfLivingIndexUtilityCostsIndex": 103.6
+  },
+  {
+    "state": "Washington",
+    "CostOfLivingIndex2023": 115.1,
+    "CostOfLivingIndexGroceryCostsIndex": 109.7,
+    "CostOfLivingIndexHealthCostsIndex": 119.8,
+    "CostOfLivingIndexHousingCostsIndex": 129.4,
+    "CostOfLivingIndexMiscCostsIndex": 110.8,
+    "CostOfLivingIndexTransportationCostsIndex": 117.1,
+    "CostOfLivingIndexUtilityCostsIndex": 92.2
+  },
+  {
+    "state": "West Virginia",
+    "CostOfLivingIndex2023": 90.3,
+    "CostOfLivingIndexGroceryCostsIndex": 97.7,
+    "CostOfLivingIndexHealthCostsIndex": 97,
+    "CostOfLivingIndexHousingCostsIndex": 70.9,
+    "CostOfLivingIndexMiscCostsIndex": 99,
+    "CostOfLivingIndexTransportationCostsIndex": 97.8,
+    "CostOfLivingIndexUtilityCostsIndex": 94.5
+  },
+  {
+    "state": "Wisconsin",
+    "CostOfLivingIndex2023": 95,
+    "CostOfLivingIndexGroceryCostsIndex": 97.9,
+    "CostOfLivingIndexHealthCostsIndex": 113.7,
+    "CostOfLivingIndexHousingCostsIndex": 84.4,
+    "CostOfLivingIndexMiscCostsIndex": 96.7,
+    "CostOfLivingIndexTransportationCostsIndex": 98.6,
+    "CostOfLivingIndexUtilityCostsIndex": 102.8
+  },
+  {
+    "state": "Wyoming",
+    "CostOfLivingIndex2023": 92.8,
+    "CostOfLivingIndexGroceryCostsIndex": 102,
+    "CostOfLivingIndexHealthCostsIndex": 98.6,
+    "CostOfLivingIndexHousingCostsIndex": 80.7,
+    "CostOfLivingIndexMiscCostsIndex": 99,
+    "CostOfLivingIndexTransportationCostsIndex": 95.6,
+    "CostOfLivingIndexUtilityCostsIndex": 85.7
+  },
+  {
+    "state": "United States",
+    "CostOfLivingIndex2023": null,
+    "CostOfLivingIndexGroceryCostsIndex": 101.2156862745098,
+    "CostOfLivingIndexHealthCostsIndex": 101.13921568627454,
+    "CostOfLivingIndexHousingCostsIndex": 109.04901960784308,
+    "CostOfLivingIndexMiscCostsIndex": 102.47647058823532,
+    "CostOfLivingIndexTransportationCostsIndex": 102.61176470588238,
+    "CostOfLivingIndexUtilityCostsIndex": 101.7411764705882
+  }
+]

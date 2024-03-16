@@ -1,0 +1,20 @@
+Machine Learning:machine learnin,ml
+Artifical Intelligence:artificial,ai,-air
+Data Science:data scien
+Data Analyst:data ana
+Data Engineer:data eng
+Graphics:gpu,graphics software engineer,graphics hardware engineer
+AR VR:ar ,vr ,virtual reality,augmented,-architect,-arc,-art,-ara,-area,-archer,-ariba,-archivist,-ARCHITECH,-ARABIC,-ARCHEOLOGIIST
+Deep Learning:deep learnin
+Cybersecurity Engineer:cyber
+Security Engineer:security
+Embedded Systems Engineer:embedded
+Full-Stack Developer:full stac,web dev
+Front-end Developer:front 
+DevOps Engineer:devop
+Cloud Architect:cloud arc
+Software Architect:software arc
+Data Architect:data arc
+Project Manager:scrum ma,scrum,agile pr
+QA Engineer:testin,qa
+Mobile Developer:mobile
