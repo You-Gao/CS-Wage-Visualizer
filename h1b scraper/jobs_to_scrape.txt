@@ -1,5 +1,5 @@
 Machine Learning:machine learnin,ml
-Artifical Intelligence:artificial,ai,-AIR,-AIRCRAFT,-AIRLINE,-AIX,-AIR QUALITY
+Artifical Intelligence:artificial,ai,-AIR,-AIRCRAFT,-AIRLINE,-AIX,-AIR QUALITY,-AIRPORT
 Data Science:data scien
 Data Analyst:data ana
 Data Engineer:data eng
